@@ -4,7 +4,7 @@
 - 👀 Learning AI Related
 - 🎮 Interested in Games
 - 📍 Living in Hainan, China
-- 📫 Reach me - he1senwa@gmail.com**
+- 📫 Reach me - he1senwa@gmail.com
 - 🌍 My Products
   - [Toffee-Docs](https://toffeeweb.cn/toffee-docs)
 
